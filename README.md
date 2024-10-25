@@ -52,8 +52,8 @@ Bar Charts: Created visual representations to compare revenue and other metrics 
 - Microsoft Excel: For data manipulation, pivot table creation, and visualization.
 - Formulas: Used Excel formulas to enhance the dataset and derive transaction categories.
 
-## Disussion of Results:
-
+## Disussion of Results
+![pivot1](https://github.com/user-attachments/assets/3f72ce39-ba39-40c5-870c-068c64ebf08c) ![graph1](https://github.com/user-attachments/assets/f5b5a90b-9c7d-4921-bdc6-a0dfb3d74699)
 ### Revenue by Region:
 - North East: Highest revenue at ₦18.64 billion.
 - South West: Second, with ₦15.88 billion.
@@ -66,8 +66,17 @@ Bar Charts: Created visual representations to compare revenue and other metrics 
 - North Central presents an opportunity for growth as it has the lowest revenue.
 - Total Revenue: ₦73.03 billion across all regions.
 - The chart visually confirms these trends, with North East and South West clearly standing out.
+#### Recommendations:
+- Leverage North East's Success: Invest in maintaining and growing sales in the North East by improving product availability and marketing.
+- Enhance South West's Revenue: Expand product lines and promotions in the South West to capitalize on its strong performance.
+- Boost North Central: Focus on growth strategies like targeted promotions in North Central, which has the lowest revenue.
+- Regional Campaigns: Use localized marketing efforts in South East, South South, and North West to increase engagement and sales.
+- Optimize Distribution: Ensure efficient distribution in underperforming regions to improve product availability and responsiveness.
 
-### Top 10 Stores by Revenue - 
+### Top 10 Stores by Revenue 
+![pivot2](https://github.com/user-attachments/assets/166ebed8-48a0-43de-a27a-e79ad9d55d84)   ![graph2](https://github.com/user-attachments/assets/aaab5443-768d-4a89-a849-9bab9df07a17)
+
+
 #### Key Insights:
 Ankpa leads with ₦1.7 billion in revenue, followed by Ajaokuta and Arochukwu at ₦1.4 billion each.
 The total revenue from the top 10 stores is ₦11.8 billion, with Nembe, Ekiti East, and others contributing between ₦0.9 billion - ₦1.2 billion.
@@ -77,16 +86,16 @@ Ankpa stands out, but revenue is fairly well-distributed among the top stores.
 - Explore Growth Potential: Investigate why Bauchi and Askira/Uba have lower revenues and develop strategies to improve sales in these locations.
 - Expand Top Performers’ Model: Consider replicating successful strategies from high-performing stores in other regions.
 
-### Discussion of Results: Line of Business - Average Revenue and Units Sold
+### Line of Business by Average Revenue and Units Sold
 #### Key Insights:
 - Service Plan leads in average revenue with ₦4.2 million, followed by Copier Sale with ₦3.3 million and Printer Sale with ₦2.6 million.
 - Parts has the highest average units sold (35.54), despite contributing the lowest revenue (₦0.5 million), suggesting lower margins or pricing per unit.
 - Copier Sale and Printer Sale show moderate sales but higher average revenue per unit.
-#### Recommendation:
+#### Recommendations:
 Optimize Parts Pricing: Review pricing strategies for Parts, as its high unit sales do not translate into higher revenue.
 Leverage Service Plans: Focus on expanding Service Plan offerings, as they yield the highest average revenue per unit.
 
-### Region vs Sum of Units Sold 
+### Region by Sum of Units Sold 
 #### Key Insights:
 The table shows the total units sold across different regions:
 - North East leads with 208,983 units sold, making it the top-performing region in terms of sales volume.
@@ -132,7 +141,7 @@ The total revenue across all models amounts to ₦73.0 billion, with the followi
 - Review Strategy for Lower Performers: Evaluate the performance of models like 4055T, 4500P, and 5001C to identify opportunities for improvement, either through marketing, pricing adjustments, or product enhancements.
 - Expand Popular Models: Consider increasing production and availability for models like 3002P and 4500C to capitalize on their strong market demand.
 
-
+### 
 
 
 
