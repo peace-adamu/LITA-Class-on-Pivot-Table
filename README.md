@@ -129,8 +129,7 @@ The table shows the total units sold across different regions:
 - Address Lower Sales in North Central: Investigate potential factors behind the lower performance in North Central and develop strategies to boost sales in the region.
 
 ### Top 5 Markets by Revenue 
-![pivot3](https://github.com/user-attachments/assets/bdc3da9f-094d-449d-9418-f11e912039e8)
-
+![pivot-top](https://github.com/user-attachments/assets/92708077-5efe-484b-949f-e66b41ce3521)
 ![graph3](https://github.com/user-attachments/assets/a5d258ca-0558-4dbb-a868-12a2e42a97b6)
 
 #### Key Insights
