@@ -156,6 +156,23 @@ The table displays the bottom 5 stores based on units sold, contributing a total
 - Boost Sales in Chibok and Isiala Ngwa South: Develop targeted marketing campaigns or promotions to increase awareness and sales in Chibok and Isiala Ngwa South.
 - Evaluate Product Offerings: Consider evaluating whether the product mix in these low-performing stores aligns with local market demand. Adjusting the product offerings might help improve performance.
 
+
+### Transaction Category by Revenue Analysis
+![pivot8](https://github.com/user-attachments/assets/17a098ef-ccca-4566-a0f2-01eafaf1bb1b)
+![graph8](https://github.com/user-attachments/assets/d7e16983-f99f-4b04-93b3-edfa07318f94)
+
+#### Key Insights:
+- Medium transactions contribute the most, with ₦30.5 billion in revenue, accounting for 42% of total revenue.
+- Low transactions follow, bringing in ₦26.5 billion, or 36% of the total.
+- High transactions generate ₦16 billion, making up only 22% of the overall revenue.
+#### Recommendations:
+- Encourage Medium to High Value Transactions:
+Since Medium transactions are the largest revenue source, incentivize customers to increase transaction sizes through upselling or bundling options.
+- Boost High-Value Transactions:
+Focus on marketing strategies that target high-value clients, such as loyalty programs, exclusive offers, or tailored promotions for premium customers.
+- Optimize Low-Value Transactions:
+Streamline processes to reduce costs associated with Low transactions, or encourage customers to increase purchase amounts through minimum spend offers.
+
 ### TOP 5 Revenue & Units Sold by the Day Category & Line of Business 		
 ![pivot7](https://github.com/user-attachments/assets/0bcd0736-f3be-4c31-8d2a-5641eb63ead7)
 ![graph7](https://github.com/user-attachments/assets/787b4927-310e-49ec-8bd9-c499d24b4da9)
