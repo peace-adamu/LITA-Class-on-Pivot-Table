@@ -1,4 +1,4 @@
-![graph5](https://github.com/user-attachments/assets/2f171f1c-5b3b-429b-89e9-f017b7c4b598)# Project Title: LITA-Class-on-Pivot-Table ![-5808992407017075915_121](https://github.com/user-attachments/assets/25de5326-5471-4319-8b37-f21a51696b69) 
+# Project Title: LITA-Class-on-Pivot-Table ![-5808992407017075915_121](https://github.com/user-attachments/assets/25de5326-5471-4319-8b37-f21a51696b69) 
 
 ## Table of Contents
 - [Acknowledgments](#acknowledgments)
@@ -129,7 +129,8 @@ The table shows the total units sold across different regions:
 - Address Lower Sales in North Central: Investigate potential factors behind the lower performance in North Central and develop strategies to boost sales in the region.
 
 ### Top 5 Markets by Revenue 
-![pivot3](https://github.com/user-attachments/assets/bb14399f-3107-4764-8656-f478bc342a0b)
+![pivot3](https://github.com/user-attachments/assets/bdc3da9f-094d-449d-9418-f11e912039e8)
+
 ![graph3](https://github.com/user-attachments/assets/a5d258ca-0558-4dbb-a868-12a2e42a97b6)
 
 #### Key Insights
