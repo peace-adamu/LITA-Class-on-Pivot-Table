@@ -1,4 +1,19 @@
-# Project Title: LITA-Class-on-Pivot-Table
+![graph5](https://github.com/user-attachments/assets/2f171f1c-5b3b-429b-89e9-f017b7c4b598)# Project Title: LITA-Class-on-Pivot-Table ![-5808992407017075915_121](https://github.com/user-attachments/assets/25de5326-5471-4319-8b37-f21a51696b69) 
+
+## Table of Contents
+- [Acknowledgments](#acknowledgments)
+- [Project Preview](#docs/project-preview.md)
+- [Project Objective](#project-objective)
+- [Project Significance](#project-significance)
+- [Methodology](#methodology)
+- [Prerequisites](#Prerequisities)
+- [Discussion of Result](#discussion-of-result)
+- [Conclusion](#conclusion)
+
+## Acknowledgments
+I would like to express my deepest gratitude to the following individuals and organizations for their support and guidance throughout this project:
+First and foremost, I acknowledge the Ladies in Tech Africa organization for providing the platform and resources necessary to develop my skills in Excel and data analysis. Their commitment to empowering women in technology is truly inspiring.
+I would also like to extend my sincere appreciation to my tutor, Mr. Adamu Mu'azu, his expertises, patiences, and dedications were instrumental in my success. Also his guidances were invaluable, and I am grateful for the opportunity to learn from him.
 
 ## Project Preview
 This project focuses on leveraging pivot tables in Excel to analyze business performance across multiple dimensions, including regions, business lines, and stores. The dataset contains key columns such as Line of Business, Day Category, Revenue, and Units Sold, with an additional column for Transaction Category derived using an Excel formula. By creating various pivot tables, we aim to uncover insights into revenue generation, top-performing regions and stores, and sales trends across different categories. Visualizations such as bar charts help illustrate these insights, making them easier to interpret and apply to decision-making.
@@ -87,6 +102,9 @@ Ankpa stands out, but revenue is fairly well-distributed among the top stores.
 - Expand Top Performers’ Model: Consider replicating successful strategies from high-performing stores in other regions.
 
 ### Line of Business by Average Revenue and Units Sold
+![pivot5](https://github.com/user-attachments/assets/2061fa38-0679-44e4-9edd-ada13c2973e4)
+![graph5](https://github.com/user-attachments/assets/9a8af782-8123-489c-aecc-89429f48609e)
+
 #### Key Insights:
 - Service Plan leads in average revenue with ₦4.2 million, followed by Copier Sale with ₦3.3 million and Printer Sale with ₦2.6 million.
 - Parts has the highest average units sold (35.54), despite contributing the lowest revenue (₦0.5 million), suggesting lower margins or pricing per unit.
@@ -95,7 +113,10 @@ Ankpa stands out, but revenue is fairly well-distributed among the top stores.
 Optimize Parts Pricing: Review pricing strategies for Parts, as its high unit sales do not translate into higher revenue.
 Leverage Service Plans: Focus on expanding Service Plan offerings, as they yield the highest average revenue per unit.
 
-### Region by Sum of Units Sold 
+### Region by Sum of Units Sold
+![pivot6](https://github.com/user-attachments/assets/3fffa80b-58d1-4e1f-a22c-49ebe2ec8ceb)
+![graph6](https://github.com/user-attachments/assets/292fc774-237e-4c6b-88a2-b03caf6f2736)
+
 #### Key Insights:
 The table shows the total units sold across different regions:
 - North East leads with 208,983 units sold, making it the top-performing region in terms of sales volume.
@@ -108,6 +129,9 @@ The table shows the total units sold across different regions:
 - Address Lower Sales in North Central: Investigate potential factors behind the lower performance in North Central and develop strategies to boost sales in the region.
 
 ### Top 5 Markets by Revenue 
+![pivot3](https://github.com/user-attachments/assets/bb14399f-3107-4764-8656-f478bc342a0b)
+![graph3](https://github.com/user-attachments/assets/a5d258ca-0558-4dbb-a868-12a2e42a97b6)
+
 #### Key Insights
 The top 5 markets by revenue contribute a total of ₦22.8 billion:
 - Ekiti leads with ₦5.6 billion, making it the highest revenue-generating market.
@@ -120,6 +144,9 @@ The top 5 markets by revenue contribute a total of ₦22.8 billion:
 - Growth Strategy for Kogi: While performing well, Kogi could benefit from additional investment in marketing and infrastructure to push revenue further.
 
 ### Bottom 5 Stores by Units Sold  
+![pivot4](https://github.com/user-attachments/assets/50b9002e-1038-4387-aeae-81b4e4ea94ab)
+![graph4](https://github.com/user-attachments/assets/ea00b8ef-2040-418d-a0d0-1c2942e0682c)
+
 #### Key Insights
 The table displays the bottom 5 stores based on units sold, contributing a total of 102 units:
 - Boki and Kwali have the lowest sales with only 2 and 4 units sold, respectively.
@@ -129,21 +156,26 @@ The table displays the bottom 5 stores based on units sold, contributing a total
 - Boost Sales in Chibok and Isiala Ngwa South: Develop targeted marketing campaigns or promotions to increase awareness and sales in Chibok and Isiala Ngwa South.
 - Evaluate Product Offerings: Consider evaluating whether the product mix in these low-performing stores aligns with local market demand. Adjusting the product offerings might help improve performance.
 
-### Revenue by Model 
-#### Key Insights
-The total revenue across all models amounts to ₦73.0 billion, with the following highlights:
-- 3002P is the top revenue generator with ₦26.2 billion, contributing significantly to the total.
-- 4500C follows with ₦16.7 billion, while 2500C and 3002C bring in ₦7.5 billion and ₦7.3 billion respectively.
-- Models 2500P and 5001P also perform well, generating ₦6.1 billion and ₦4.7 billion.
-- 4055T and 4500P bring in smaller amounts of ₦1.2 billion and ₦1.5 billion, while 5001C generates ₦1.8 billion.
-#### Recommendations:
-- Focus on High Performers: Prioritize maintaining and enhancing performance for top models like 3002P and 4500C, which are driving the bulk of revenue.
-- Review Strategy for Lower Performers: Evaluate the performance of models like 4055T, 4500P, and 5001C to identify opportunities for improvement, either through marketing, pricing adjustments, or product enhancements.
-- Expand Popular Models: Consider increasing production and availability for models like 3002P and 4500C to capitalize on their strong market demand.
+### TOP 5 Revenue & Units Sold by the Day Category & Line of Business 		
+![pivot7](https://github.com/user-attachments/assets/0bcd0736-f3be-4c31-8d2a-5641eb63ead7)
+![graph7](https://github.com/user-attachments/assets/787b4927-310e-49ec-8bd9-c499d24b4da9)
 
-### 
+#### Key Insight:
+- Work Day contributes the highest revenue and units sold, with ₦69.05 billion and 742,324 units, indicating peak business activity.
+- Public Holiday ranks second with ₦2.06 billion in revenue and 23,141 units, suggesting boosted sales due to holiday demand.
+- Season and Observance periods show moderate sales, while Local Holiday has the lowest sales performance.
+- Product Performance:
+  i. Service Plans and Parts generate substantial revenue across most market types, particularly on WorkDays.
+  ii. Copier and Printer Sales are consistently lower in units sold but contribute significantly to revenue, especially during WorkDays.
+#### Recommendations
+Optimize WorkDay Operations: Focus resources, such as staffing and inventory, on WorkDays to maximize returns, as they yield the highest sales.
+Enhance Holiday Campaigns: Expand marketing efforts and promotions during Public Holidays to capitalize on higher spending patterns.
+Increase Seasonal Engagement: Boost promotions and tailor product offerings during Observance and Season periods to enhance moderate sales.
+Leverage Service Plans: Promote Service Plans and Parts sales, as they show consistent demand across various market types.
+ 
 
-
+## Conclusion
+This project successfully leveraged Excel pivot tables to analyze business performance across multiple dimensions, revealing critical insights into revenue, units sold, and sales trends across regions, stores, and product lines. Key findings included the dominance of the North East and South West regions in revenue, high performance of select stores like Ankpa, and the significant impact of WorkDays on overall sales. By focusing on targeted strategies—such as enhancing top-performing regions, optimizing operations on peak days, and strengthening underperforming areas—the project offers actionable recommendations for boosting sales and enhancing operational efficiency. Through this analysis, the value of data-driven decision-making in maximizing business potential and optimizing resource allocation is clearly demonstrated.
 
 
 
